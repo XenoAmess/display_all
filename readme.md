@@ -7,3 +7,4 @@ need [tampermonkey](https://www.tampermonkey.net/)
 )
 
 ## Release
+https://greasyfork.org/scripts/436413-displayall
